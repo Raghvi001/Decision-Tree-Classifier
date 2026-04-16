@@ -19,5 +19,4 @@ This project implements a Decision Tree using sklearn.
 1. Open notebook in Jupyter/Colab
 2. Run all cells
 
-## Output
-(Add screenshots here if possible)
+
